@@ -11,6 +11,8 @@ This project focuses on tracking the motion trajectories of C. elegans through i
   <img src="https://github.com/user-attachments/assets/5d6d1ee1-fd19-40bd-b12d-929c2f49ea22" alt="image">
 </p>
 
+---
+### Track screen
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c78109ab-3895-4ad4-abb9-bbcdfe1a667b" alt="image">
 </p>
